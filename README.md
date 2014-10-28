@@ -1,0 +1,1 @@
+Automatically give people git credit
